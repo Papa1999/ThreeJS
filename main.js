@@ -1,3 +1,6 @@
+import * as THREE from "three";
+
+console.log(THREE);
 // Initialize the SCENE
 const scene = new THREE.Scene();
 
